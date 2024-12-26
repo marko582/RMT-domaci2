@@ -1,0 +1,9 @@
+Ime i prezime: Marko
+Zemlje odredišta: [Češka, Nemačka, Luksemburg]
+JMBG: 2409003111111
+Broj pasoša: 2409003111111
+Datum ulaska u EU: 2026-02-12
+Datum izlaska iz EU: 2026-03-25
+Način prevoza: motocikl
+Broj dana boravka: 41
+Status: Plaća prijavu.
